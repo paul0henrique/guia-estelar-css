@@ -1,7 +1,16 @@
+article p:hover{
+    color: blue
+}
+
 article p:nth-of-type(1){
     font-weight: bold;
 }
 
 article p:nth-child(odd){
     background: #eee
+}
+
+input:focus{
+    border-color: blue;
+    outline: none;
 }
