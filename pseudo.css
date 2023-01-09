@@ -14,3 +14,7 @@ input:focus{
     border-color: blue;
     outline: none;
 }
+
+li::after {
+    content: "_"
+}
