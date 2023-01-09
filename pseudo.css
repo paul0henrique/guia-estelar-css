@@ -15,6 +15,10 @@ input:focus{
     outline: none;
 }
 
-li::after {
+li::before {
     content: ">>"
+}
+
+li::before{
+    color: red;
 }
