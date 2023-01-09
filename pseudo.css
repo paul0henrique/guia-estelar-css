@@ -16,5 +16,5 @@ input:focus{
 }
 
 li::after {
-    content: "_"
+    content: ">>"
 }
