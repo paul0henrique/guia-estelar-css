@@ -1,4 +1,10 @@
 .flexbox {
     display: flex;
-    justify-content: space-between;
+    border: 2px solid red;
+    height: 100vh;
+}
+
+.item{
+    border: 2px solid;
+    flex: 1
 }
