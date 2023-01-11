@@ -11,4 +11,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-basis: 10px;
+}
+
+.flexbox div:nth-child(3) {
+    flex-grow: 10;
 }
