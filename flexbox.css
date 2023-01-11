@@ -2,7 +2,7 @@
     display: flex;
     border: 2px solid red;
     height: 100vh;
-    flex-wrap: wrap;
+    gap: 2px
 }
 
 .item{
