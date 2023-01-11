@@ -6,5 +6,7 @@
 
 .item{
     border: 2px solid;
-    flex: 1
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
