@@ -15,5 +15,5 @@
 }
 
 .flexbox div:nth-child(2) {
-    flex-shrink: 3;
+    flex-shrink: 3 ;
 }
