@@ -2,3 +2,21 @@
     display: flex;
     gap: 1rem
 }
+
+aside, main {
+    border: 1px solid;
+    height: 95vh;
+    margin: 2rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside {
+    flex-basis: 25%
+}
+
+main {
+    flex: 1;
+}
