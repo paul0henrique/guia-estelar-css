@@ -1,0 +1,19 @@
+.flexbox {
+    display: flex;
+    border: 2px solid red;
+    height: 100vh;
+    gap: 2px;
+}
+
+.item{
+    border: 2px solid;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 40px;
+}
+
+.flexbox div:nth-child(2) {
+    flex-shrink: 3 ;
+}
