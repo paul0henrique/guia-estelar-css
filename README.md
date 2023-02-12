@@ -1,3 +1,3 @@
 # guia-estelar-css
 
-CSS practices
+CSS practices.
